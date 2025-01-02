@@ -36,3 +36,4 @@
    ```bash
    git clone https://github.com/your-username/image-gallery.git
    cd image-gallery
+   npm run dev 
